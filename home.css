@@ -3,6 +3,6 @@ div.title{
   color: #ffffff;
   position: sticky;
   top: 0;
-  border-style: outset;
+  border-style: ridge;
   border-color: #030303;
 }
