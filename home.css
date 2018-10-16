@@ -5,4 +5,5 @@ div.title{
   top: 0;
   border-style: ridge;
   border-color: #030303;
+  width: 100%;
 }
