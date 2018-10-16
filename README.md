@@ -1,6 +1,6 @@
 # Test123
 
-this is a test to see if github pages is working
+If you are reading this on Scraft161.github.io/gh-pages then the site is working
 
 ## Welcome to GitHub Pages
 
