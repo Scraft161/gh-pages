@@ -4,4 +4,5 @@ div.title{
   position: sticky;
   top: 0;
   border-style: outset;
+  border-color: #030303;
 }
